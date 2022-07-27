@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    
+    width: 95;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    background: black;
+}
+
+.opt {
+    margin-left: 10px;
+}
